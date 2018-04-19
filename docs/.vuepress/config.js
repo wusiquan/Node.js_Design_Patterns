@@ -14,7 +14,8 @@ module.exports = {
         title: '学习',
         collapsable: false,
         children: [
-          ['/chapter5', '第五章 Coding With Stream']
+          ['/chapter5', '第五章 Coding With Stream'],
+          ['/chapter6', '第六章']
         ]
       }
     ]
