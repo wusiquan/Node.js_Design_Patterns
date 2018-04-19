@@ -1,5 +1,5 @@
 module.exports = {
-  base: 'node.js_design_patterns',
+  base: '/node.js_design_patterns/',
   title: 'Node.js设计模式(第2版)',
   description: 'Node.js设计模式学习',
 
